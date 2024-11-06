@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Mohammad Parsa Ghorbani
+👋 Hi, I’m Mohammad Parsa Ghorbani
   
-- 👀 I'm interested in learning data science and machine learning
+👀 I'm interested in learning data science and machine learning
   
-- 🌱 I’m currently learning data science
+🌱 I’m currently learning data science
 
-- 💬 You can contact me whenever you want
+💬 You can contact me whenever you want
 
 
 <!---
