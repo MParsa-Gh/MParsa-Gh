@@ -2,9 +2,7 @@
   
 👀 I'm interested in learning data science and machine learning
   
-🌱 I’m currently learning data science
-
-💬 You can contact me whenever you want
+🌱 I’m currently learning Machine learning
 
 
 <!---
